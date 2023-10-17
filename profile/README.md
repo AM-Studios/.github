@@ -1,5 +1,5 @@
-# About Us
-SumpKrunch is founded by... well Sump and KRUNCHY. 
+### About Us
+Small team trying to make fun things for people to enjoy.
 
-## What we do
-Make FiveM stuff mainly
+### Our Community
+Pretend a discord link is here :)
